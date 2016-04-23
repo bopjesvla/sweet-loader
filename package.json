@@ -1,6 +1,6 @@
 {
   "name": "sweet-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Loader for sweet.js 1.x macros",
   "main": "index.js",
   "keywords": [
@@ -13,5 +13,16 @@
   },
   "peerDependencies": {
     "sweet.js": "^1.0.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopjesvla/sweet-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bopjesvla/sweet-loader/issues"
+  },
+  "homepage": "https://github.com/bopjesvla/sweet-loader#readme"
 }

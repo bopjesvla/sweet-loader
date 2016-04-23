@@ -6,6 +6,7 @@ module.exports = function(source) {
 	
 	config.filename = loaderUtils.interpolateName(this, "[name].[ext]", {})
 	
+	console.log("hey")
 	this.cacheable()
 	
 	try {
